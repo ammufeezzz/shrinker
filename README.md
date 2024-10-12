@@ -1,5 +1,7 @@
 **PS**:Havent completely finished was drooled in almost completing Fast-Type, just need a loginn page, and a stats pagE<br>
 
+**YT-LINK**: https://youtu.be/QWAes8KmIK0?si=hhgVgptzXN6Oo5U9
+
 **Stack Used**: EJS,CSS,JS,EXPRESS,NODE,POSTGRES <br>
 
 **How to get started**
